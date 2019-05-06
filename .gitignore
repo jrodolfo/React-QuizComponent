@@ -19,3 +19,16 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# webstorm
+*.iml
+.idea/
+
+# logs and libraries
+build
+logs
+npm-debug.log
+
+# ms word temporary file
+~$*.docx
+~*.tmp
